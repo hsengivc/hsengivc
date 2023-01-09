@@ -20,10 +20,6 @@ I’m a full-stack developer who has 6+ years of experience. Being a full-stack 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
 - 🌱 I’m currently learning Adobe Experience Manager (AEM) and Swift  
   
 
